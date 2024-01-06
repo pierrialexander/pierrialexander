@@ -31,5 +31,6 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/pierri-alexander-vidmar/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/pierri_alexander" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </p>
