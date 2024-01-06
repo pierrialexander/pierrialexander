@@ -9,9 +9,9 @@
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" title="Django" alt="Django" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" title="PHP" alt="PHP"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" title="Laravel" alt="Laravel"/></code>
-<img width="25" height="25" src="https://www.svgrepo.com/show/373548/delphi.svg" title="PHP" alt="PHP"/></code>
-<img width="25" height="25" src="https://github.com/pierrialexander/pierrialexander/blob/main/svg_logos/html_logo.png" title="HTML" alt="HTML" />
-<img width="25" height="25" src="https://github.com/pierrialexander/pierrialexander/blob/main/svg_logos/css_logo.png" title="CSS" alt="CSS" />
+<img width="25" height="25" src="https://www.svgrepo.com/show/373548/delphi.svg" title="Delphi" alt="Delphi"/></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" title="HTML" alt="HTML" />
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" title="CSS" alt="CSS" />
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" title="Sass" alt="Sass" />
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal">
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" title="Hibernate" alt="Hibernate" /></code>
@@ -30,7 +30,7 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/pierri-alexander-vidmar/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pierri-alexander-vidmar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/pierri_alexander" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </p>
